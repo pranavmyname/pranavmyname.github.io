@@ -1,31 +1,24 @@
 ---
 title: Home
 layout: home
+nav_order: 1
 ---
+# Pranav Prakash
+Master of Science Tu Delft, Data Scientist, Geospatial
 
-This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
+| :---:| :---: | :---: | :---: |
+| [Resume](CV_pranav.pdf) | [Medium](https://medium.com/@dantebhai)  |  [LinkedIn](https://www.linkedin.com/in/pranav-prakash-10379398/) | [Github](https://github.com/pranavmyname)
 
-If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
 
-More specifically, the created site:
+I hold a Master of Science degree in Electrical Engineering with a specialization in Signals and Systems from Delft University of Technology. I have built a career in Data Science and Computer Vision, gaining valuable experience in various startups in the Netherlands and India.
 
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
+My professional journey has led me to apply machine learning techniques in real-world settings. I've worked on projects involving computer-vision-based hardware automation, activity recognition using time-series IMU data (accelerometer and gyroscope), and applications in the geo-spatial domain. I've had the opportunity to work with both edge devices and cloud computing.
 
-Other than that, you're free to customize sites that you create with this template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
+My passion lies in automation using sensor data, to either develop toy projects or to enhance the quality of life by eliminating mundane, repetitive tasks that rely on human senses. This could involve tasks like using drones to track cyclists or monitoring property access through cameras. I'm highly intrigued by the latest developments in AI and technology, such as ChatGPT and SAM, and I love experimenting with these innovative technologies.
 
-[Browse our documentation][Just the Docs] to learn more about how to use this theme.
+Beyond my academic and professional pursuits, I'm an avid traveler and a book enthusiast. Having visited over 15 countries, I've found some destinations to be particularly memorable, including Maafushi Island in the Maldives, Dubai, Prague, Annecy in France, and Barcelona. Looking ahead, my top destinations to explore are the USA, Bali, and Greece. Additionally, I've recently taken up the hobby of learning different swim strokes and enjoy playing football, cricket, and basketball. During my free time, I indulge in reading, writing blogs, dining out, or watching movies.
 
-To get started with creating a site, simply:
 
-1. click "[use this template]" to create a GitHub repository
-2. go to Settings > Pages > Build and deployment > Source, and select GitHub Actions
-
-If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#hosting-your-docs-from-an-existing-project-repo) in the template README.
-
-----
-
-[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
 
 [Just the Docs]: https://just-the-docs.github.io/just-the-docs/
 [GitHub Pages]: https://docs.github.com/en/pages
@@ -34,9 +27,3 @@ If you want to maintain your docs in the `docs` directory of an existing project
 [GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
 [use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
 
----
-title: Projects
-layout: Projects
----
-
-A list of my projects
