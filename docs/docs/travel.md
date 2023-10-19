@@ -1,7 +1,7 @@
 ---
 title: My Travel Diaries
-layout: home
-nav_order: 4
+layout: default
+nav_order: 5
 ---
 
 # Memorable destinations

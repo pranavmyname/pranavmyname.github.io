@@ -1,8 +1,8 @@
 ---
 title: Blogs
-layout: home
-nav_order: 3
+layout: default
+nav_order: 4
 ---
 
 # Blogs
-This is a hobby that I have developed recently that has been a pleasant surprise to me. I didn't know how satisfying it can be to put random thoughts in your mind and structure it in the form of a blog. Doing that not only enables you to share your thoughts with others but also gives further clarity to your thinking. You can read all my blogs by [visiting this link](https://medium.com/@dantebhai).
+This is a recent hobby that has pleasantly surprised me. I had no idea how satisfying it could be to take random thoughts and shape them into a blog. This not only allows you to share your thoughts with others but also enhances the clarity of your thinking. You can access all my blogs by [following this link](https://medium.com/@dantebhai).
