@@ -16,7 +16,7 @@ My professional journey has led me to apply machine learning techniques in real-
 
 My passion lies in automation using sensor data, to either develop toy projects or to enhance the quality of life by eliminating mundane, repetitive tasks that rely on human senses. This could involve tasks like using drones to track cyclists or monitoring property access through cameras. I follow the latest developments in AI and technology, such as ChatGPT and SAM, and I love experimenting with these technologies.
 
-Beyond my academic and professional pursuits, I'm an avid traveler and a book reader. Having visited over 15 countries, I've found some destinations to be particularly memorable, including Maafushi Island in the Maldives, Dubai, Prague, Annecy in France, and Barcelona. Looking ahead, my top destinations to explore are the USA, Bali, and Greece. Additionally, I've recently taken up the hobby of learning different swim strokes and enjoy playing football, cricket, and basketball. During my free time, I indulge in reading, writing blogs, dining out, or watching movies.
+Beyond my academic and professional pursuits, I'm an avid traveler and a book reader. Having visited over 15 countries, I've found some destinations to be particularly memorable, including Maafushi Island in the Maldives, Dubai, Prague, Annecy in France, and Barcelona. Looking ahead, my top destinations to explore are the USA, Bali, and Greece. Additionally, I've recently taken up the hobby of learning different swim strokes and enjoy playing football, cricket, and basketball. I spend my free time reading books, writing blogs, dining out, or watching movies.
 
 
 
