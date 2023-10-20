@@ -55,13 +55,8 @@ Dubai was all about extreme tall, extravagance and bling. The tallest building o
         </tr>
         <tr>
             <td ><img src="photos/dubai/buggy.png" alt="Italian Trulli"></td>
-            <td colspan=2><img src="photos/dubai/cruize.jpg" alt="Italian Trulli"></td>
-        </tr>
-        <tr>
-            <td><img src="photos/dubai/mof.jpg" alt="Museum of the future"></td>
+            <td colspan><img src="photos/dubai/cruize.jpg" alt="Italian Trulli"></td>
             <td colspan><img src="photos/dubai/mof_dna.jpg" alt="DNA room inside the Museum of the Future"></td>
-            <td colspan><img src="photos/dubai/arena.jpg" alt="Coca Cola Arena with amazing seating space and sound"></td>
         </tr>
-
     </tbody>
 </table>
