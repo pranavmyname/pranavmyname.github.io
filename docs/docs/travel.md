@@ -5,7 +5,10 @@ nav_order: 5
 ---
 
 # Memorable destinations
+I have travelled to over 15 countries and made a heatmap of all the places where I have capture a photo of mine.  
 
+| :---:|
+| ![Places I have visited](photos/heatmap.jpg) | 
 
 ## Maldives
 
