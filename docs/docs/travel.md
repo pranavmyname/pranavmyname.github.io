@@ -40,4 +40,28 @@ Switzerland was one of the most scenic country witht the majority of the country
 
 
 ## Dubai
+Dubai was all about extreme tall, extravagance and bling. The tallest building of Burj Khalifa isn't just the tallest building, it is also very well lit and looks amazing at night. With the addition of Dubai fountain, Dubai Mall and the music, it is sight that can only be experienced. It also has a lot of fun activities including Buggy ride on sand dunes, night cruize and e-bike ride along the well-lit streets around downtown Dubai. Each building has its own unique addition to the city experience. However, Museum of the future, for which I was most excited for turned out to be a big dissapointment. They have an amazing building and an even better interior but no content. For something that calls itself the Museum of The Future, the least they could have done was use the best tech out there in the present to create better lightings or an experience. The city also had really good foot with several Michelin guide and Michelin star restaurants and we found something new to eat at every other place. 
+<table>
+    <tbody>
+        <tr>
+            <td><img src="photos/dubai/fountain.png" alt="Museum of the future"></td>
+            <td><img src="photos/dubai/lime.png" alt="Lime bike ride through the lighted streets of Dubai"></td>
+            <td><img src="photos/dubai/sunset.jpg" alt="Skyline during Sunset"></td>
+        </tr>
+        <tr>
+            <td><img src="photos/dubai/gold_coffee.jpg" alt="Bling gold coffee at At.mosphere Burj Khalifa"></td>
+            <td colspan><img src="photos/dubai/ramsay.jpg" alt="Gordon Ramsay's Bread Street Kitchen & Bar"></td>
+            <td colspan><img src="photos/dubai/food.jpg" alt="Gordon Ramsay's Bread Street Kitchen & Bar Dessert"></td>
+        </tr>
+        <tr>
+            <td ><img src="photos/dubai/buggy.png" alt="Italian Trulli"></td>
+            <td colspan=2><img src="photos/dubai/cruize.jpg" alt="Italian Trulli"></td>
+        </tr>
+        <tr>
+            <td><img src="photos/dubai/mof.jpg" alt="Museum of the future"></td>
+            <td colspan><img src="photos/dubai/mof_dna.jpg" alt="DNA room inside the Museum of the Future"></td>
+            <td colspan><img src="photos/dubai/arena.jpg" alt="Coca Cola Arena with amazing seating space and sound"></td>
+        </tr>
 
+    </tbody>
+</table>
