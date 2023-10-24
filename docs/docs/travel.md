@@ -5,6 +5,16 @@ nav_order: 5
 ---
 
 # Memorable destinations
+{: .no_toc }
+
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+- TOC
+{:toc}
+</details>
 I have travelled to over 15 countries and made a heatmap of all the places where I have capture a photo of mine.  
 
 | :---:|

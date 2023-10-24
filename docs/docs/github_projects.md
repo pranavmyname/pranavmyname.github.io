@@ -5,8 +5,19 @@ parent: Projects
 nav_order: 1
 ---
 
-## [Tensorflow Test Time Augmentation (tensorflow-tta)](https://github.com/pranavmyname/tensorflow_tta)
+# Navigation Structure
+{: .no_toc }
 
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+- TOC
+{:toc}
+</details>
+
+## [Tensorflow Test Time Augmentation (tensorflow-tta)](https://github.com/pranavmyname/tensorflow_tta)
 Tensorflow Test Time Augmentation: Test time augmentation on Tensorflow keras models which utilizes GPU acceleration for segmentation models. It helps in improving accuracy of the model over the test dataset
 
 ## [Change Detection with Google Earth Engine](https://github.com/pranavmyname/dw-analytics)
